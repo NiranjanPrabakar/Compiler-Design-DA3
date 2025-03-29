@@ -1,8 +1,4 @@
-This project is a compiler implementation that takes input code and generates the following:
-
-- **Three Address Code (3AC)**: Intermediate representation for further optimizations.
-- **Memory Address Code**: Allocation of variables and their memory addresses.
-- **Final ISA Code**: Machine-level instructions for execution.
+Here's the updated project documentation including the resized images and their descriptions:
 
 ### Key Features
 
@@ -87,14 +83,20 @@ STORE R1, [addr_b]
 | 1    | LOAD        | [addr_a] |
 | 2    | ADD         | 10       |
 | 3    | STORE       | [addr_b] |
-<img src="[https://github.com/user/repo/blob/main/output.jpg](https://github.com/NiranjanPrabakar/Compiler-Design-DA3/blob/main/Frontend%20Matrix%20Multiplication%20Memory%20address%20Code)" align="center" height="350" width="600"/>
 
-#### OUTPUT
+### Output
 
-![Image](https://github.com/user-attachments/assets/6303203c-ce87-482a-8a56-25f620d3d254)
-![Image](https://github.com/user-attachments/assets/2680831e-b7d8-424b-921b-b2d540e25460)
-![Image](https://github.com/user-attachments/assets/4309ce4d-f83a-4feb-aaf8-e029b3ae5608)
-![Image](https://github.com/user-attachments/assets/acee0164-d905-45ee-a210-48c9953f90f4)
+#### Frontend Matrix Multiplication with Address Code Visualization
+<img src="https://github.com/NiranjanPrabakar/Compiler-Design-DA3/blob/main/Frontend%20Matrix%20Multiplication%20Memory%20address%20Code" align="center" height="350" width="600"/>
+
+#### ISA Code Generation
+![ISA Code Generation](https://github.com/user-attachments/assets/acee0164-d905-45ee-a210-48c9953f90f4)
+
+#### LLVM-Based Matrix Code Generation
+![LLVM-Based Matrix Code Generation](https://github.com/user-attachments/assets/2680831e-b7d8-424b-921b-b2d540e25460)
+
+#### ISA Code Generation in Linux Terminal
+![ISA Code Generation in Linux Terminal](https://github.com/user-attachments/assets/6303203c-ce87-482a-8a56-25f620d3d254)
 
 ### License
 This project is open-source and available under the MIT License.
