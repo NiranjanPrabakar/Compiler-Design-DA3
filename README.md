@@ -1,5 +1,3 @@
-Here's the updated project documentation including the resized images and their descriptions:
-
 ### Key Features
 
 1. **Lexical Analysis**: Tokenizes the input source code.
@@ -87,7 +85,7 @@ STORE R1, [addr_b]
 ### Output
 
 #### Frontend Matrix Multiplication with Address Code Visualization
-<img src="https://github.com/NiranjanPrabakar/Compiler-Design-DA3/blob/main/Frontend%20Matrix%20Multiplication%20Memory%20address%20Code" align="center" height="350" width="600"/>
+<img src="https://github.com/user-attachments/assets/c660066d-662d-46c1-ab33-5dfda6649dba" align="center" height="350" width="600"/>
 
 #### ISA Code Generation
 ![ISA Code Generation](https://github.com/user-attachments/assets/acee0164-d905-45ee-a210-48c9953f90f4)
