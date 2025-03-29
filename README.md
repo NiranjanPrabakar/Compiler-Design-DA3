@@ -85,16 +85,16 @@ STORE R1, [addr_b]
 ### Output
 
 #### Frontend Matrix Multiplication with Address Code Visualization
-<img src="https://github.com/user-attachments/assets/1f4b73f1-746c-4454-a5d8-32343e6d0823" align="center" height="350" width="600"/>
+![Frontend Matrix Multiplication with Address Code Visualization](https://github.com/user-attachments/assets/1f4b73f1-746c-4454-a5d8-32343e6d0823)
 
 #### ISA Code Generation
-<img src="https://github.com/user-attachments/assets/41be80df-aece-455c-ad08-010f2bc923d5" align="center" height="350" width="600"/>
+![ISA Code Generation](https://github.com/user-attachments/assets/41be80df-aece-455c-ad08-010f2bc923d5)
 
 #### LLVM-Based Matrix Code Generation
-<img src="https://github.com/user-attachments/assets/b11f1a57-d7a6-4d73-9972-ab67796cd591" align="center" height="350" width="600"/>
+![LLVM-Based Matrix Code Generation](https://github.com/user-attachments/assets/b11f1a57-d7a6-4d73-9972-ab67796cd591)
 
 #### ISA Code Generation in Linux Terminal
-<img src="https://github.com/user-attachments/assets/ac69a727-c8f3-4a41-baa5-c60c4a2a4791" align="center" height="350" width="600"/>
+![ISA Code Generation in Linux Terminal](https://github.com/user-attachments/assets/ac69a727-c8f3-4a41-baa5-c60c4a2a4791)
 
 ### License
 This project is open-source and available under the MIT License.
