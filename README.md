@@ -87,6 +87,8 @@ STORE R1, [addr_b]
 | 1    | LOAD        | [addr_a] |
 | 2    | ADD         | 10       |
 | 3    | STORE       | [addr_b] |
+<img src="[https://github.com/user/repo/blob/main/output.jpg](https://github.com/NiranjanPrabakar/Compiler-Design-DA3/blob/main/Frontend%20Matrix%20Multiplication%20Memory%20address%20Code)" align="center" height="350" width="600"/>
+
 
 ### License
 This project is open-source and available under the MIT License.
