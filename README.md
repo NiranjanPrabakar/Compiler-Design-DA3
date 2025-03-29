@@ -89,6 +89,12 @@ STORE R1, [addr_b]
 | 3    | STORE       | [addr_b] |
 <img src="[https://github.com/user/repo/blob/main/output.jpg](https://github.com/NiranjanPrabakar/Compiler-Design-DA3/blob/main/Frontend%20Matrix%20Multiplication%20Memory%20address%20Code)" align="center" height="350" width="600"/>
 
+#### OUTPUT
+
+![Image](https://github.com/user-attachments/assets/6303203c-ce87-482a-8a56-25f620d3d254)
+![Image](https://github.com/user-attachments/assets/2680831e-b7d8-424b-921b-b2d540e25460)
+![Image](https://github.com/user-attachments/assets/4309ce4d-f83a-4feb-aaf8-e029b3ae5608)
+![Image](https://github.com/user-attachments/assets/acee0164-d905-45ee-a210-48c9953f90f4)
 
 ### License
 This project is open-source and available under the MIT License.
